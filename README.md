@@ -1,6 +1,6 @@
 # Construa um Projeto Lógico de Banco de Dados do Zero 
 
-## Narrativa:
+## Proposta:
 - Recuperações simples com SELECT Statement;
 - Filtros com WHERE Statement;
 - Crie expressões para gerar atributos derivados;
